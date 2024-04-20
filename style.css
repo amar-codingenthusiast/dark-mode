@@ -1,0 +1,15 @@
+.light {
+    background-color: white;
+    color: black;
+}
+.dark {
+    background-color: black;
+    color: white;
+}
+button {
+    background-color: black;
+    color: white;
+    border: 1.5px red solid;
+    border-radius: 15px;
+    cursor: pointer;
+}
